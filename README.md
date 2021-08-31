@@ -28,6 +28,8 @@
 ---
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Tiffany-silva&count_private=true)](https://github.com/anuraghazra/github-readme-stats)
+<p align="center"><img src="https://github-readme-streak-stats.herokuapp.com/?user=Tiffany-silva&theme=algolia" alt="Tiffany-silva"  /></p>
+
 <br />
 
 ---
