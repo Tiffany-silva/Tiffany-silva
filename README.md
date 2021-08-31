@@ -28,8 +28,8 @@
 ---
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Tiffany-silva&count_private=true&show_icons=true&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
-<p>[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Tiffany-silva&layout=compact)](https://github.com/anuraghazra/github-readme-stats)</p>
 <p><img src="https://github-readme-streak-stats.herokuapp.com/?user=Tiffany-silva&theme=algolia" alt="Tiffany-silva"  /></p>
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Tiffany-silva&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 <br />
 
