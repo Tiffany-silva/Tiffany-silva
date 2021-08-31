@@ -1,4 +1,4 @@
-### Hi there, I'm Supeshala - aka [Tiffany-silva][website] 👋
+### Hi there, I'm Supeshala - aka [Tiffany Silva][website] 👋
 
 [![Website](https://img.shields.io/website?label=TIFFANYTUTS&style=for-the-badge&url=https%3A%2F%2Ftiffanysilva.wixsite.com/tiffanytuts)](https://tiffanysilva.wixsite.com/tiffanytuts)
 
