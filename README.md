@@ -3,7 +3,7 @@
 [![Website](https://img.shields.io/website?label=TIFFANYTUTS&style=for-the-badge&url=https%3A%2F%2Ftiffanysilva.wixsite.com/tiffanytuts)](https://tiffanysilva.wixsite.com/tiffanytuts)
 
 ## 🙋‍♀️ Let's Connect
-<p align="center">
+<p>
   <a href="https://tiffanysilva.wixsite.com/tiffanytuts"><img src="https://img.icons8.com/bubbles/50/000000/web.png" alt="Website"/></a>
 	<a href="mailto:silva.tiffd@gmail.com"><img src="https://img.icons8.com/bubbles/50/000000/gmail.png" alt="Gmail"/></a>
 	<a href="https://www.linkedin.com/in/supeshalasilva/"><img src="https://img.icons8.com/bubbles/50/000000/linkedin.png" alt="LinkedIn"/></a>
