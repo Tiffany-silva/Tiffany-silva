@@ -3,7 +3,8 @@
 [![Website](https://img.shields.io/website?label=TIFFANYTUTS&style=for-the-badge&url=https%3A%2F%2Ftiffanysilva.wixsite.com/tiffanytuts)](https://tiffanysilva.wixsite.com/tiffanytuts)
 
 <p> Aspiring Software Engineer. Reader. Interested in Aritificial Intelligence. Loves Baking and Vibing to Tropical Music.</p>
-<br>
+<br/>
+
 ## 🙋‍♀️ Let's Connect
 <p>
   <a href="https://tiffanysilva.wixsite.com/tiffanytuts"><img src="https://img.icons8.com/bubbles/50/000000/web.png" alt="Website"/></a>
@@ -12,6 +13,7 @@
 	<a href="https://www.instagram.com/didyouknowthis.ig/"><img src="https://img.icons8.com/bubbles/50/000000/instagram.png" alt="Instagram"/></a>
 </p>
 <br />
+
 ### Languages and Tools:
 
 <img align="left" alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />
