@@ -2,9 +2,6 @@
 
 [![Website](https://img.shields.io/website?label=TIFFANYTUTS&style=for-the-badge&url=https%3A%2F%2Ftiffanysilva.wixsite.com/tiffanytuts)](https://tiffanysilva.wixsite.com/tiffanytuts)
 
-### Connect with me:
-
-[<img align="left" alt="codeSTACKr.com" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
 ## 🙋‍♀️ Let's Connect
 <p align="center">
   <a href="https://tiffanysilva.wixsite.com/tiffanytuts"><img src="https://img.icons8.com/bubbles/50/000000/web.png" alt="Website"/></a>
