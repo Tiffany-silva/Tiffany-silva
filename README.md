@@ -26,14 +26,13 @@
 <img align="left" alt="MySQL" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png" />
 <img align="left" alt="Git" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" />
 <img align="left" alt="GitHub" width="26px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" />
+ <img align="left" src="https://www.vectorlogo.zone/logos/gitlab/gitlab-icon.svg" alt="github" width="26px" height="26px"/> 
  <img align="left" src="https://www.vectorlogo.zone/logos/java/java-icon.svg" alt="java" width="26px" height="26px"/> 
  <img align="left" src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" alt="spring" width="26px" height="26px"/>
- <img align="left" src="https://www.vectorlogo.zone/logos/nodejs/nodejs-icon.svg" alt="ballerina" width="26px" height="26px"/>
+ <img align="left" src="https://www.vectorlogo.zone/logos/nodejs/nodejs-icon.svg" alt="node" width="26px" height="26px"/>
  <img align="left" src="https://www.vectorlogo.zone/logos/python/python-icon.svg" alt="python" width="26px" height="26px"/>
  <img align="left" src="https://www.vectorlogo.zone/logos/reactjs/reactjs-icon.svg" alt="reactjs" width="26px" height="26px"/>
- <img align="left" align="left" src="https://www.vectorlogo.zone/logos/w3_html5/w3_html5-icon.svg" alt="html" width="26px" height="26px"/>
  <img align="left" align="left" src="https://www.vectorlogo.zone/logos/jenkins/jenkins-icon.svg" alt="github" width="26px" height="26px"/> 
- <img align="left" src="https://www.vectorlogo.zone/logos/gitlab/gitlab-icon.svg" alt="github" width="26px" height="26px"/> 
 <br />
 
 ---
