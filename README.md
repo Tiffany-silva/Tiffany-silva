@@ -26,24 +26,14 @@
 <img align="left" alt="MySQL" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png" />
 <img align="left" alt="Git" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" />
 <img align="left" alt="GitHub" width="26px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" />
- <img src="https://www.vectorlogo.zone/logos/java/java-icon.svg" alt="java" width="50" height="50"/> 
- <img src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" alt="spring" width="45" height="45"/>
- <img src="https://www.vectorlogo.zone/logos/nodejs/nodejs-icon.svg" alt="ballerina" width="45" height="45"/>
- <img src="https://www.vectorlogo.zone/logos/python/python-icon.svg" alt="python" width="40" height="40"/>
- <img src="https://www.vectorlogo.zone/logos/reactjs/reactjs-icon.svg" alt="reactjs" width="45" height="45"/>
-    <img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="github" width="45" height="45"/> 
-    <img src="https://www.vectorlogo.zone/logos/w3_html5/w3_html5-icon.svg" alt="html" width="40" height="40"/>
-    <img src="https://www.vectorlogo.zone/logos/jenkins/jenkins-icon.svg" alt="github" width="45" height="45"/> 
-    <img src="https://www.vectorlogo.zone/logos/docker/docker-icon.svg" alt="docker" width="75" height="60"/> 
-    <img src="https://www.vectorlogo.zone/logos/kubernetes/kubernetes-icon.svg" alt="kubernetes" width="45" height="45"/>
-    <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="45" height="45"/> 
-    <img src="https://www.vectorlogo.zone/logos/gitlab/gitlab-icon.svg" alt="github" width="45" height="45"/> 
-    <img src="https://www.vectorlogo.zone/logos/github/github-icon.svg" alt="github" width="45" height="45"/> 
-    <img src="https://www.vectorlogo.zone/logos/mongodb/mongodb-icon.svg" alt="github" width="45" height="45"/> 
-    <img src="https://www.vectorlogo.zone/logos/mysql/mysql-icon.svg" alt="github" width="45" height="45"/> 
-    <img src="https://www.vectorlogo.zone/logos/amazon_aws/amazon_aws-icon.svg" alt="github" width="45" height="45"/> 
-    <img src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" alt="github" width="45" height="45"/> 
-    <img src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" alt="github" width="45" height="45"/> 
+ <img align="left" src="https://www.vectorlogo.zone/logos/java/java-icon.svg" alt="java" width="26px" height="26px"/> 
+ <img align="left" src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" alt="spring" width="26px" height="26px"/>
+ <img align="left" src="https://www.vectorlogo.zone/logos/nodejs/nodejs-icon.svg" alt="ballerina" width="26px" height="26px"/>
+ <img align="left" src="https://www.vectorlogo.zone/logos/python/python-icon.svg" alt="python" width="26px" height="26px"/>
+ <img align="left" src="https://www.vectorlogo.zone/logos/reactjs/reactjs-icon.svg" alt="reactjs" width="26px" height="26px"/>
+ <img align="left" align="left" src="https://www.vectorlogo.zone/logos/w3_html5/w3_html5-icon.svg" alt="html" width="26px" height="26px"/>
+ <img align="left" align="left" src="https://www.vectorlogo.zone/logos/jenkins/jenkins-icon.svg" alt="github" width="26px" height="26px"/> 
+ <img align="left" src="https://www.vectorlogo.zone/logos/gitlab/gitlab-icon.svg" alt="github" width="26px" height="26px"/> 
 <br />
 
 ---
