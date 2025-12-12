@@ -1,13 +1,10 @@
 ## Hi there, I'm Supeshala - aka [Tiffany Silva][website] 👋
 
-[![Website](https://img.shields.io/website?label=TIFFANYTUTS&style=for-the-badge&url=https%3A%2F%2Ftiffanysilva.wixsite.com/tiffanytuts)](https://tiffanysilva.wixsite.com/tiffanytuts)
-
 <h4>Software Engineer. Reader. Interested in Aritificial Intelligence and Sustainability through Information Technology. Loves Vibing to Tropical Music.</h4>
 <br/>
 
 ## 🙋‍♀️ Let's Connect
 <p>
-  <a href="https://tiffanysilva.wixsite.com/tiffanytuts"><img src="https://img.icons8.com/bubbles/50/000000/web.png" alt="Website"/></a>
 	<a href="mailto:silva.tiffd@gmail.com"><img src="https://img.icons8.com/bubbles/50/000000/gmail.png" alt="Gmail"/></a>
 	<a href="https://www.linkedin.com/in/supeshalasilva/"><img src="https://img.icons8.com/bubbles/50/000000/linkedin.png" alt="LinkedIn"/></a>
 	<a href="https://www.instagram.com/didyouknowthis.ig/"><img src="https://img.icons8.com/bubbles/50/000000/instagram.png" alt="Instagram"/></a>
